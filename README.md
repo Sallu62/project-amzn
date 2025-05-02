@@ -1,7 +1,8 @@
 # git-project
  # Amazon Clone - HTML & CSS  
 
-![Amazon Clone Preview](https://via./image.com/800x400?text=Amazon+Clone+Preview)  
+![Amazon Clone Preview](https://via./[image](https://github.com/user-attachments/assets/8472b5cd-8bc1-413d-b9d7-d64e8c792f1a)
+.com/800x400?text=Amazon+Clone+Preview)  
 
 A *static Amazon clone* built with pure *HTML & CSS*, replicating the core UI of Amazon's homepage. Perfect for learning front-end development!  
 
